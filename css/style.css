@@ -1,0 +1,10 @@
+body{
+    background-color: dimgray;
+    color: honeydew;
+}
+div{
+    background-color: goldenrod; 
+    width: 150px; 
+    height: 150px;
+    margin: 10px;
+}
